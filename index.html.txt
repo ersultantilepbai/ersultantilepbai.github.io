@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Newton laws</title>
+
+</head>
+<body>
+
+<p>Абзац</p>
+
+</body>
+</html>
